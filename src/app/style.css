@@ -1,0 +1,23 @@
+#addprd{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.input{
+    display: block;
+    margin: 15px 0px 0px 15px;
+    padding:5px;
+    width: 300px;
+    align-items: center;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.btn{
+    width: 295px;
+    margin:15px 0px 0px 15px;
+    padding: 4.8px 15px;
+    border:2px solid white;
+    border-radius: 5px;
+  }
